@@ -1146,7 +1146,7 @@ footer {
     
     .contact-box {
         flex-direction: column;
-        height: 850px;
+        height: auto;
     }
     
     .contact-info {
