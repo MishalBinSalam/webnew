@@ -1222,7 +1222,7 @@ footer {
     }
 
     footer {
-        height: 70vh;
+        height: auto;
     }
     
     .footer-row {
