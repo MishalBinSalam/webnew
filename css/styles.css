@@ -1281,7 +1281,8 @@ footer {
 
     .footer-bottom-row p {
         margin: 0;
-        font-size: 12px;
+        font-size: 10px;
+        margin-top: 10px;
     }
 }
 
